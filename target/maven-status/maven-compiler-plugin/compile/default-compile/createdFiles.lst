@@ -1,0 +1,10 @@
+com\javainuse\springbootquickstart\courseapidata\course\CourseService.class
+com\javainuse\springbootquickstart\courseapidata\course\CourseController.class
+com\javainuse\springbootquickstart\courseapidata\topic\TopicRepository.class
+com\javainuse\springbootquickstart\courseapidata\topic\TopicService.class
+com\javainuse\springbootquickstart\courseapidata\course\CourseRepository.class
+com\javainuse\springbootquickstart\courseapidata\topic\Topic$Builder.class
+com\javainuse\springbootquickstart\courseapidata\topic\Topic.class
+com\javainuse\springbootquickstart\courseapidata\topic\TopicController.class
+com\javainuse\springbootquickstart\courseapidata\course\Course.class
+com\javainuse\springbootquickstart\courseapidata\CourseApiDataApplication.class
